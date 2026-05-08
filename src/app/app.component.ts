@@ -15,7 +15,7 @@ import { LoadingService } from './services/loading/loading.service';
     standalone: false
 })
 export class AppComponent implements OnInit, OnDestroy{
-  title = 'andresjosehr-portfolio';
+  title = 'SindhuMuruli-Portfolio';
   appContentVisible = false;
   private lenis: Lenis;
 
@@ -33,7 +33,7 @@ export class AppComponent implements OnInit, OnDestroy{
 
     this.languageService.initLanguage()
 
-    this.titleService.setTitle( "José Andrés | Frontend Developer" );
+    this.titleService.setTitle( "Sindhu Muruli | Software Developer" );
 
     this.metaService.addTags([
       {name: 'keywords', content: 'Frontend, software, developer'},

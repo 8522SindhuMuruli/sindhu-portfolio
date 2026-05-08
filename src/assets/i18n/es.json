@@ -4,7 +4,7 @@
   "Header.Item3": "Proyectos",
   "Header.Item4": "Contacto",
   "Header.cvBtn": "Curriculum",
-  "Header.cvName": "CV_Jose_Hernandez_Espanol.pdf",
+  "Header.cvName": "Sindhu-SDE1.pdf",
   "Loading": "Cargando...",
 
   "Banner.Pretitle": "Hola! Mi nombre es",
@@ -13,10 +13,10 @@
 
   "AboutMe.Title": "Acerca de mí",
   "AboutMe.Paragraphs": [
-    "En <span class='underline'>+10 años de experiencia</span> he cubierto muchos roles: <span class='underline'>Analista de sistemas</span>, <span class='underline'>backend developer</span>, <span class='underline'>frontend developer</span> y <span class='underline'>líder técnico</span>. Me encanta aportar mis conocimientos para crear cosas nuevas que ayuden a resolver problemas.",
-    "Mis capacidades también incluyen implementar mejoras en sistemas, optimizar sitios, estandarizar patrones y sugerir y ejecutar ideas que añadan valor al proyecto en el que esté trabajando.",
-    "También programo cosas para mi uso personal, bien sea por hobby o por utilidad.",
-    "Algunas de las tecnologías en las que me he capacitado y trabajado incluyen (pero no se limitan) a:"
+    "<span class='underline'>Desarrollador Frontend & Ingeniero de Software</span> con <span class='underline'>2+ años de experiencia</span> en <span class='underline'>Digit Insurance</span>. Especializado en desarrollo y mantenimiento de <span class='underline'>Aplicaciones de Página Única (SPAs)</span> en el dominio de seguros de salud, trabajando con productos de alto impacto incluyendo <span class='underline'>ABHA (Ayushman Bharat Health Account)</span>, <span class='underline'>Topup</span>, <span class='underline'>IVF</span> y <span class='underline'>HealthPA</span>.",
+    "Experto reconocido en <span class='underline'>Integración OTP</span> - lideré la integración transversal de servicios OTP habilitando autenticación sin inconvenientes en múltiples productos de seguros de salud, mejorando la incorporación de usuarios en <span class='underline'>30%+</span>. Construí interfaces responsivas y de alto rendimiento utilizando <span class='underline'>HTML5, CSS3, JavaScript/ES6+ y React.js</span> con enfoque en compatibilidad entre navegadores y diseño mobile-first.",
+    "Colaboré con equipos de backend para integrar APIs para procesamiento de datos de salud en tiempo real y optimicé el rendimiento de aplicaciones para <span class='underline'>1M+ usuarios concurrentes</span>. Apasionado por escribir código limpio y mantenible implementando prácticas modernas de desarrollo.",
+    "Tecnologías: <span class='underline'>React.js</span>, <span class='underline'>JavaScript</span>, <span class='underline'>HTML5</span>, <span class='underline'>CSS3</span>, <span class='underline'>Integración de APIs</span>, <span class='underline'>Servicios OTP</span> y más."
   ],
 
   "Experience.Title": "Experiencia",
