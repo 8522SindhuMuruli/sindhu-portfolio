@@ -1,0 +1,69 @@
+{
+  "Header.Item1": "About Me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "Sindhu-SDE1.pdf",
+  "Loading": "Loading...",
+
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I have <span class='underline'>2+ years of experience</span>in Full stack development in building scalable, responsive web applications using <span class='underline'>Angular</span> and <span class='underline'>JavaScript</span>. Skilled in UI/UX implementation and <span class='underline'>REST API integration</span>. Proven ability to collaborate with cross functional teams to deliver robust, high performance solutions.",
+  "Banner.ActionBtn": "Say Hi",
+
+  "AboutMe.Title": "About Me",
+  "AboutMe.Paragraphs": [
+    "<span class='underline'>Frontend Developer & Software Engineer</span> with <span class='underline'>2+ years of experience</span>. Specialized in developing and maintaining <span class='underline'>Single Page Applications (SPAs)</span> for the Health Insurance domain, handling high-impact products including <span class='underline'>ABHA (Ayushman Bharat Health Account)</span>, <span class='underline'>Topup</span>, <span class='underline'>IVF</span>, and <span class='underline'>HealthPA</span>.",
+    "Recognized expert in <span class='underline'>OTP Integration</span> - led cross-domain integration of OTP services enabling seamless authentication across multiple health insurance products, improving user onboarding by <span class='underline'>30%+</span>. Built responsive, performant interfaces using <span class='underline'>HTML5, CSS3, JavaScript/ES6+, and React.js</span> with focus on cross-browser compatibility and mobile-first design.",
+    "Collaborated with backend teams to integrate APIs for real-time health data processing and optimized application performance for <span class='underline'>1M+ concurrent users</span>. Passionate about writing clean, maintainable code and implementing modern development practices.",
+    "Some of the technologies I have trained and worked with include (but are not limited to):"
+  ],
+
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Digit",
+      "Title": "Software Developer",
+      "Date": "July 2024",
+      "Description": [
+        "2+ years at Digit Insurance",
+        "Frontend Developer & Software Engineer focus",
+        "ABHA, Topup, IVF, HealthPA expertise",
+        "OTP Integration expert with 30%+ improvement",
+        "React.js, JavaScript, HTML5, CSS3 skills",
+        "1M+ concurrent users optimization experience"
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "My Projects",
+  "FeatureProjects.Label": "Highlighted Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Disease Prediction System",
+      "Description": "Built <span class='underline'>AI/ML-based web application</span> for <span class='underline'>disease prediction</span> achieving <span class='underline'>93% accuracy</span> with integrated <span class='underline'>doctor search</span> functionality and <span class='underline'>dynamic visualization</span>. Developed using <span class='underline'>JavaScript</span>, <span class='underline'>HTML5</span>, <span class='underline'>CSS3</span>, <span class='underline'>Angular</span>, with version control via <span class='underline'>GitHub</span>.",
+      "imgs": [
+        "assets/images/disease-prediction.png",
+        "assets/images/diabetes.png",
+        "assets/images/heart.png"
+      ],
+      "Technologies": ["JavaScript", "Angular", "SCSS", "Angular Material", "RxJS"]
+    },
+    {
+      "Title": "Book Store App",
+      "Description": "Developed comprehensive <span class='underline'>online bookstore</span> with full e-commerce functionality including <span class='underline'>shopping cart</span>, <span class='underline'>wishlist</span>, <span class='underline'>order placement</span>, <span class='underline'>product reviews</span>, and <span class='underline'>dynamic rating filters</span>. Built with <span class='underline'>Angular</span>, <span class='underline'>JavaScript</span>, <span class='underline'>HTML/SCSS</span>, <span class='underline'>PostgreSQL</span>, and <span class='underline'>Material-UI</span> for a responsive, user-friendly interface.",
+      "imgs": [
+        "assets/images/bookstore1.png",
+        "assets/images/bookstore2.png",
+        "assets/images/bookstore3.png"
+      ],
+      "Technologies": ["Angular", "JavaScript", "PostgreSQL", "Material-UI", "SCSS"]
+    }
+   
+  ],
+
+  "Contact.Pretitle": "And... Now?",
+  "Contact.Title": "Say Hi!",
+  "Contact.Content": "I will be glad to hear from you if you want to discuss new opportunities. Write to me, and I will respond as soon as I see your message.",
+  "Contact.Btn": "Contact Me"
+}

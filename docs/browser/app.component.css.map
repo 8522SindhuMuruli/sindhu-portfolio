@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/variables.scss", "src/app/app.component.scss"],
+  "sourcesContent": ["/* You can add global styles to this file, and also import other style files */\r\n\r\n$Navy         : #0a192f;\r\n$LightNavy    : #112240;\r\n$LightestNavy : #303C55;\r\n$Slate        : #8892b0;\r\n$LightSlate   : #a8b2d1;\r\n$LightestSlate: #ccd6f6;\r\n$White        : #e6f1ff;\r\n$Green        : #64ffda;\r\n$GreenOpacity : rgba(100,255,218,0.07);\r\n\r\n$MainFont: Calibre,San Francisco,SF Pro Text,-apple-system,system-ui,BlinkMacSystemFont,Roboto,Helvetica Neue,Segoe UI,Arial,sans-serif;\r\n$CodeFont: SF Mono, Fira Code, Fira Mono, Roboto Mono, Lucida Console, Monaco, Monospace;\r\n", "@use '../variables' as *;\r\n\r\n:host {\r\n  background-color: $Navy;\r\n  min-height: 100vh;\r\n  display: block;\r\n}\r\n\r\n.app-content {\r\n  background-color: $Navy;\r\n  min-height: 100vh;\r\n}"],
+  "mappings": ";ACEA;AACE,oBDDc;ACEd,cAAA;AACA,WAAA;;AAGF,CAAA;AACE,oBDPc;ACQd,cAAA;;",
+  "names": []
+}
